@@ -1,0 +1,34 @@
+Given a number n you have to count number of pairs (x,y) such that x * y = n and gcd(x, y) = 1
+
+Note: gcd(x, y) is the greatest number that divides both x and y.
+
+Refer: link
+
+Use of Fast I/O is recommended.
+
+
+
+Input format:
+
+First line consists of a number T, denoting number of test cases.
+
+Each of the next T lines contains a single number N.
+
+
+
+Output format:
+
+Output the required answer on a new line.
+
+
+
+Constraints:
+
+1 ≤ T ≤ 10^6
+
+1 ≤ N ≤ 10^7
+
+Sample Input
+2
+2
+6
